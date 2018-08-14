@@ -20,6 +20,6 @@
     { "x": 114, "y": 64, "drawWidth": 15, "drawHeight": 25, "state": 0, "assets_sn": "123" },
     { "x": 133, "y": 64, "drawWidth": 15, "drawHeight": 25, "state": 0, "assets_sn": "123" },
     { "x": 152, "y": 64, "drawWidth": 15, "drawHeight": 25, "state": 0, "assets_sn": "123" },
-    { "x": 171, "y": 64, "drawWidth": 15, "drawHeight": 25, "state": 2, "assets_sn": "123_b" },
+    { "x": 171, "y": 64, "drawWidth": 15, "drawHeight": 25, "state": 2, "assets_sn": "123_b" }
   ]
 }
